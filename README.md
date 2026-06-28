@@ -25,7 +25,7 @@ Initially developed to automate the discovery of academic assignments, the tool 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/dyra4okkkk/yandex-contest-monitor.git](https://github.com/dyra4okkkk/yandex-contest-monitor.git)
+   git clone https://github.com/dyra4okkkk/yandex-contest-monitor.git
    cd yandex-contest-monitor
 
 ```
@@ -88,7 +88,7 @@ python src/main.py
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone [https://github.com/dyra4okkkk/yandex-contest-monitor.git](https://github.com/dyra4okkkk/yandex-contest-monitor.git)
+git clone https://github.com/dyra4okkkk/yandex-contest-monitor.git
 cd yandex-contest-monitor
 
 ```
