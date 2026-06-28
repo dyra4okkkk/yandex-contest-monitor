@@ -1,7 +1,7 @@
 import logging
 import requests
 from typing import List
-from src.config import HEADERS, SEARCH_PATTERNS
+from config import HEADERS, SEARCH_PATTERNS
 
 session = requests.Session()
 session.headers.update(HEADERS)

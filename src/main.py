@@ -1,8 +1,7 @@
 import logging
 from concurrent.futures import ThreadPoolExecutor
-from src.config import START_ID, END_ID, MAX_WORKERS
-from src.scraper import check_id
-
+from config import START_ID, END_ID, MAX_WORKERS
+from scraper import check_id
 logging.basicConfig(
     level=logging.INFO, 
     format='%(asctime)s - %(levelname)s - %(message)s'
